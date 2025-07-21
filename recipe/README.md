@@ -1,0 +1,1 @@
+This repository contains text files of two Vietnamese foods contained in different directories, meant as practice for my command line and git/github course on Codedex. The repository has no features other than having some text files I wrote in command line.
